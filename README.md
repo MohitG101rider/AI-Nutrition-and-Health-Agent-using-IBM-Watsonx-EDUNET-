@@ -4,8 +4,7 @@ As Internship Project
 # AI Nutrition & Health Assistant using IBM Watsonx.ai
 _Friendly Dietician + Health Guide Agent_
 
-## Live Agent
-[Click here to try my AI Agent](https://eu-gb.ml.cloud.ibm.com/ml/v4/deployments/1968aa66-d74b-4231-9fa2-0c359bf5e8d6/ai_service?version=2021-05-01)
+---
 
 ## Problem Statement 8
 Build an AI agent that provides personalized dietary recommendations and health tips using structured nutrition knowledge, ensuring user-specific guidance for weight loss, muscle gain, and chronic conditions like diabetes.
